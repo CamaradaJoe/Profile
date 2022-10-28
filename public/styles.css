@@ -497,8 +497,8 @@ table tr td{
 }
 .portfolioItem:hover img{
     filter:blur(1.5px) brightness(30%);
-    box-shadow: 0 0 10px black;
-    border-radius: 10px;
+    box-shadow: 0 0 10px -10px black;
+    
 }
 .portfolioItem :not(img){
     height: 100%;
