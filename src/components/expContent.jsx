@@ -12,7 +12,7 @@ const expContent = [
         "SQL/NoSQL",
         "HTML, CSS, JS",
         "React.js",
-        "EJS"
+        "Node.js & EJS"
     ]
   },
   {

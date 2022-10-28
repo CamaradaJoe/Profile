@@ -498,6 +498,7 @@ table tr td{
 .portfolioItem:hover img{
     filter:blur(1.5px) brightness(30%);
     box-shadow: 0 0 10px black;
+    border-radius: 10px;
 }
 .portfolioItem :not(img){
     height: 100%;
